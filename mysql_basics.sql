@@ -75,5 +75,9 @@ alter table employees
 modify column
 age int not null check(age >=18);
 
+select * from employees;
+
+desc employees;
+
 
 
