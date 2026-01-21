@@ -79,5 +79,13 @@ select * from employees;
 
 desc employees;
 
+insert into employees(id,name,salary,age)
+values
+(104,'gowtham',55000,67);
+
+
+
+
+
 
 
